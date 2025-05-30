@@ -6,7 +6,7 @@
 
 ## 📝 Sobre o Projeto
 
-Este projeto foi desenvolvido durante as aulas da Rocketseat, como parte do curso Full-Stack. Trata-se de uma página web elegante que apresenta uma receita de cupcake de café com chantilly, com design responsivo e estilização cuidadosa.
+Este projeto foi desenvolvido por Jackson Felipe durante os estudos da Rocketseat, como parte do curso Full-Stack. Trata-se de uma página web elegante que apresenta uma receita de cupcake de café com chantilly, com design responsivo e estilização cuidadosa.
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -70,8 +70,8 @@ Este projeto permitiu aplicar conceitos importantes de desenvolvimento web:
 
 ## 👨‍💻 Autor
 
-Desenvolvido com 💛 durante as aulas da Rocketseat.
+Desenvolvido por **Jackson Felipe** com 💛 durante os estudos da Rocketseat.
 
 ---
 
-<p align="center">Feito com ❤️ pela Rocketseat</p>
+<p align="center">Feito com ❤️ por Jackson Felipe</p>
