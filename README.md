@@ -74,4 +74,3 @@ Desenvolvido por **Jackson Felipe** com 💛 durante os estudos da Rocketseat.
 
 ---
 
-<p align="center">Feito com ❤️ por Jackson Felipe</p>
