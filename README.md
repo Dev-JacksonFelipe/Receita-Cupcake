@@ -70,7 +70,7 @@ Este projeto permitiu aplicar conceitos importantes de desenvolvimento web:
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Jackson Felipe** com 💛 durante os estudos da Rocketseat.
+Desenvolvido por **Jackson Felipe** durante os estudos da Rocketseat.
 
 ---
 
